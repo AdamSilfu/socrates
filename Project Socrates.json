@@ -168,6 +168,14 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "can-we-seriously-talk-about-how-iconic-and-perfect-kirbys-v0-hjvr11fzfgae1.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "can-we-seriously-talk-about-how-iconic-and-perfect-kirbys-v0-hjvr11fzfgae1.webp",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -210,15 +218,15 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 78.99999999999999,
-          "keepRatio": true,
+          "customSize": true,
+          "depth": 1.0169491525423728,
+          "height": 60,
           "layer": "",
           "name": "Player",
           "persistentUuid": "4ded1d81-e820-41d3-868a-3f314e5850bd",
-          "width": 79,
-          "x": 384,
-          "y": 304,
+          "width": 60,
+          "x": 356,
+          "y": 296,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -411,6 +419,7 @@
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Player",
+          "persistentUuid": "f113ed54-b37b-4692-a053-e426170a0772",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -509,7 +518,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\StartingPixelPlayer.png",
+                      "image": "can-we-seriously-talk-about-how-iconic-and-perfect-kirbys-v0-hjvr11fzfgae1.webp",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -553,6 +562,7 @@
           "assetStoreId": "",
           "height": 64,
           "name": "Background",
+          "persistentUuid": "35fa008a-778a-40ef-8ad4-40d0932255a7",
           "texture": "assets\\PixelBackground.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
